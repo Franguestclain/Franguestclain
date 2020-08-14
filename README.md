@@ -67,8 +67,6 @@ I am a Jr web developer who has recently been attracted to electronics and IoT. 
 [<img src="https://spotify-now-playing-five.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12150525712?si=ljgQ1vu0RDy_fiDbZzj4Dg)
 
 <br />
-<br />
-<br />
 
 <img align="left" alt="Franguestclain's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Franguestclain&count_private=true&show_icons=true&hide_border=true"/>
 
