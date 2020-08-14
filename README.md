@@ -61,6 +61,12 @@ I am a Jr web developer who has recently been attracted to electronics and IoT. 
 [<img align="left" style="margin: 0 10px" alt="Franguestclain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-five.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12150525712?si=ljgQ1vu0RDy_fiDbZzj4Dg)
+
+<br />
 <br />
 <br />
 
