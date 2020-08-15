@@ -68,9 +68,9 @@ I am a Jr web developer who has recently been attracted to electronics and IoT. 
 
 <br />
 
-[![Franguestclain's github stats](https://github-readme-stats.vercel.app/api?username=Franguestclain&count_private=true&show_icons=true&hide_border=true)](https://github.com/Franguestclain?tab=repositories)
+<img align="left" alt="Franguestclain's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Franguestclain&count_private=true&show_icons=true&hide_border=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franguestclain&layout=compact&hide_border=true)](https://github.com/Franguestclain?tab=repositories)
+<img align="left" alt="Most used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franguestclain&layout=compact&hide_border=true"/>
 
 
 
