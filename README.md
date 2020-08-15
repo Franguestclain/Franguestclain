@@ -4,7 +4,7 @@ I am a Jr web developer who has recently been attracted to electronics and IoT. 
 ## Currently I am :
 
 - 🏠Living in Chihuahua, Chihuahua, México.
-- 🛠 Working on PID Electronics.
+- 🛠 Working in PID Electronics.
 - 👨‍🎓 Finishing my TSU degree on the UTCH.
 - 💻Finishing a Linux course by Cisco Netowrking Academy.
 
