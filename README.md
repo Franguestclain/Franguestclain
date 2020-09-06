@@ -62,15 +62,19 @@ I am a Jr web developer who has recently been attracted to electronics and IoT. 
 
 <br />
 
+
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing-five.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12150525712?si=ljgQ1vu0RDy_fiDbZzj4Dg)
 
 <br />
 
-<img align="left" alt="Franguestclain's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Franguestclain&count_private=true&show_icons=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Franguestclain&column=7"/>
 
-<img align="left" alt="Most used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franguestclain&layout=compact&hide_border=true"/>
+<div>
+    <img align="left" alt="Franguestclain's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Franguestclain&count_private=true&show_icons=true&hide_border=true"/>
+    <img align="left" alt="Most used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franguestclain&layout=compact&hide_border=true"/>
+</div>
 
 
 
