@@ -1,12 +1,11 @@
 ### Hi there, I'm Carlos Ortega (Franguestclain)
-I am a Jr web developer who has recently been attracted to electronics and IoT. I really like video games and music, recently I got a taste for reading and also for tattoos.
+I am web developer who has recently been attracted to electronics and IoT. I really like video games and music, also very afraid to contribute to open source 😣.
 
 ## Currently I am :
 
 - 🏠Living in Chihuahua, Chihuahua, México.
-- 🛠 Working in PID Electronics.
-- 👨‍🎓 Finishing my TSU degree on the UTCH.
-- 💻Finishing a Linux course by Cisco Netowrking Academy.
+- 🛠 Working at BuscaMed.
+- 👨‍🎓 Finishing my engineer degree on the UTCH.
 
 ## Stuff that I want to learn
 <img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="26px" alt="Docker" />
@@ -19,13 +18,12 @@ I am a Jr web developer who has recently been attracted to electronics and IoT. 
 
 <img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" width="26px" alt="Kubernetes" />
 
-<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="26px" alt="C++" />
-
 <img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="26px" alt="Python" />
 
-<img align="left" style="margin: 0 10px" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" style="max-width:100%;">
+<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="26px" alt="RUST" />
 
-<img align="left" style="margin: 0 10px" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="max-width:100%;">
+<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="26px" alt="GO/GOLANG" />
+
 
 <br />
 <br />
@@ -43,13 +41,17 @@ I am a Jr web developer who has recently been attracted to electronics and IoT. 
 
 <img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="26px" alt="HTML5" />
 
-<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="26px" alt="HTML5" />
+<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="26px" alt="GIT" />
 
-<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px" alt="HTML5" />
+<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px" alt="GITHUB" />
 
-<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="26px" alt="HTML5" />
+<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="26px" alt="MYSQL" />
 
-<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="26px" alt="HTML5" />
+<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="26px" alt="TERMINAL" />
+
+<img align="left" style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" width="26px" alt="NEXTJS" />
+
+<img align="left" style="margin: 0 10px" alt="GRAPHQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="max-width:100%;">
 
 <br />
 <br />
