@@ -4,7 +4,7 @@ I am web developer who has recently been attracted to electronics and IoT. I rea
 ## Currently I am :
 
 - 🏠Living in Chihuahua, Chihuahua, México.
-- 🛠 Working at BuscaMed.
+- 🛠 Working at Lyft.
 - 👨‍🎓 Finishing my engineer degree on the UTCH.
 
 ## Stuff that I want to learn
